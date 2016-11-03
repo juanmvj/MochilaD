@@ -1,0 +1,5 @@
+ 7
+ 4 7 agua
+ 2 3 gameboy
+ 3 4 chocolate
+ 3 6 cuchillo
